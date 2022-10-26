@@ -57,3 +57,5 @@ Created by [Nathan Kelber](http://nkelber.com) and [Ted Lawless](https://github.
 <br />
 
 ![CC BY License Logo](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/CC_BY.png)
+
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fhagaybar%2Ftdm-notebooks&urlpath=tree%2Ftdm-notebooks%2Ftest_note_book-hb.ipynb)
